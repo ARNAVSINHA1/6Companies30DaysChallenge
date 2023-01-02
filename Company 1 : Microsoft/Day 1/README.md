@@ -6,6 +6,4 @@
 
    - 13. Seat Arrangement in a SpiceJet Problem - Online OA February ‘22
    - 14. Deletions to make an array divisible.
-   - 15. Substrings containing all three Characters
- 
-
+   - 15. Substrings containing all three Character
