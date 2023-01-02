@@ -5,6 +5,6 @@
 
 ### 3 Programs of Day :
 
-   - 1. 
-   - 11. Number of ways to arrive at a Destination.
+   - 7. Scheduling a Course
+   - 11. Number of ways to arrive at a Destination
    - 12. Longest Happy Prefix
