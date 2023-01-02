@@ -1,4 +1,4 @@
-3 Programs of Day : 1 01/01/2023
+3 Programs of Day : 1 - 01/01/2023
 
 
 14. Deletions to make an array divisible.
