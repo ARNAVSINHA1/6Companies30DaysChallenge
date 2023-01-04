@@ -5,6 +5,6 @@
 
 ### 3 Programs of Day :
 
-   - 2. Combination Sum with a twist.
-   - 3. Bulls and Cows
-   - 4. You are given an integer array nums of length n. Return maximum length of Rotation Function.
+   - 1. You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
+   - 5. Largest Divisible Subset.
+   - 6. How to find a perfect Rectangle
