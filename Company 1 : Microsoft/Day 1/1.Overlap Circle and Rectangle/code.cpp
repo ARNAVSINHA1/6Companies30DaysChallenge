@@ -4,17 +4,10 @@ public:
         auto clamp = [&](int center, int mn, int mx) {
             return max(mn, min(mx, center));
         };
-
-        // the closest point to the circle within the rectangle
-        int closestX = clamp(xCenter, x1, x2);
-        int closestY = clamp(yCenter, y1, y2);
-
         // the distance between the circle's center and its closest point
-        int distanceX = xCenter - closestX;
-        int distanceY = yCenter - closestY;
+        int distanceX = xCenter - clamp(xCenter, x1, x2), distanceY = yCenter - clamp(yCenter, y1, y2);
 
         // If the distance < the circle's radius, an intersection occurs.
-        return (distanceX * distanceX) + (distanceY * distanceY) <=
-            (radius * radius);
+        return ((distanceX * distanceX) + (distanceY * distanceY)) <= (radius * radius);
     }
 };
