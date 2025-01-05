@@ -1,5 +1,5 @@
 # 6Companies30DaysChallenge
-   ## Challenge Company 1: Microsoft 
+   ## Challenge Company 1: [Microsoft](https://www.microsoft.com/en-in/) 
    - 1. [Overlap Circle and Rectangle](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
    - 2. [Who is the Winner?](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
    - 3. [Envelopes and Dolls](https://leetcode.com/problems/russian-doll-envelopes/description/)
@@ -16,7 +16,7 @@
    - 14. [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
    - 15. [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/)
    ##
-   ## Challenge Company 2: Amazon 
+   ## Challenge Company 2: [Amazon](https://www.amazon.com/) 
    - 1. [Calculating Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
    - 2. [Longest Mountain](https://leetcode.com/problems/longest-mountain-in-array/description/)
    - 3. [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
