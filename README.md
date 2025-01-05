@@ -1,8 +1,5 @@
 # 6Companies30DaysChallenge
-
    ## Challenge Company 1: Microsoft 
-
-    
    - 1. [Overlap Circle and Rectangle](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
    - 2. [Who is the Winner?](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
    - 3. [Envelopes and Dolls](https://leetcode.com/problems/russian-doll-envelopes/description/)
@@ -18,12 +15,8 @@
    - 13. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort-ii/description/)
    - 14. [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
    - 15. [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/)
-
-
-
+   ##
    ## Challenge Company 2: Amazon 
-
-    
    - 1. [Calculating Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
    - 2. [Longest Mountain](https://leetcode.com/problems/longest-mountain-in-array/description/)
    - 3. [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
@@ -39,12 +32,73 @@
    - 13. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/description/)
    - 14. [Tree Burning](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
    - 15. [Delete N nodes after M nodes of a linked list](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
-
+   ##
    ## Challenge Company 3: .......
-   
+   - 1. 
+   - 2. 
+   - 3. 
+   - 4. 
+   - 5. 
+   - 6. 
+   - 7. 
+   - 8. 
+   - 9. 
+   - 10. 
+   - 11. 
+   - 12. 
+   - 13. 
+   - 14. 
+   - 15. 
+   ##
    ## Challenge Company 4: .......
-
+   - 1. 
+   - 2. 
+   - 3. 
+   - 4. 
+   - 5. 
+   - 6. 
+   - 7. 
+   - 8. 
+   - 9. 
+   - 10. 
+   - 11. 
+   - 12. 
+   - 13. 
+   - 14. 
+   - 15. 
+   ##
    ## Challenge Company 5: .......
-   
+   - 1. 
+   - 2. 
+   - 3. 
+   - 4. 
+   - 5. 
+   - 6. 
+   - 7. 
+   - 8. 
+   - 9. 
+   - 10. 
+   - 11. 
+   - 12. 
+   - 13. 
+   - 14. 
+   - 15. 
+   ##
    ## Challenge Company 6: .......
-
+   - 1. 
+   - 2. 
+   - 3. 
+   - 4. 
+   - 5. 
+   - 6. 
+   - 7. 
+   - 8. 
+   - 9. 
+   - 10. 
+   - 11. 
+   - 12. 
+   - 13. 
+   - 14. 
+   - 15. 
+   ##
+# Thank you for visiting my Repository. Do checkout my profile....
