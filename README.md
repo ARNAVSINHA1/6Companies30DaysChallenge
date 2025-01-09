@@ -67,7 +67,7 @@
    - 14. 
    - 15. 
    ##
-   ## Challenge Company 5: .......
+   ## Challenge Company 5: ..........
    - 1. 
    - 2. 
    - 3. 
