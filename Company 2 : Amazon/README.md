@@ -1,5 +1,7 @@
-   ## Challenge Company 2: Amazon 
+   # Challenge Company 2: Amazon 
 
+   ## Date Started:- 06/01/2025
+   ## Date Completed:- 10/01/2025
     
    - 1. [Calculating Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
    - 2. [Longest Mountain](https://leetcode.com/problems/longest-mountain-in-array/description/)
