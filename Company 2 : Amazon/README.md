@@ -1,8 +1,6 @@
    # Challenge Company 2: Amazon 
-
    ## Date Started:- 06/01/2025
    ## Date Completed:- 10/01/2025
-    
    - 1. [Calculating Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
    - 2. [Longest Mountain](https://leetcode.com/problems/longest-mountain-in-array/description/)
    - 3. [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
@@ -18,3 +16,4 @@
    - 13. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/description/)
    - 14. [Tree Burning](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
    - 15. [Delete N nodes after M nodes of a linked list](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
+##
