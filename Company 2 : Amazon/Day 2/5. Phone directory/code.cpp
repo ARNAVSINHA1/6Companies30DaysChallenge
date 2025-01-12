@@ -1,99 +1,126 @@
-#include <iostream>
-#include <vector>
-#include <string>
-#include <algorithm>
-#include <unordered_set>
-#include <sstream>
+//{ Driver Code Starts
+// Initial Template for C++
 
+#include <bits/stdc++.h>
 using namespace std;
 
-class TrieNode {
-public:
-    TrieNode* arr[26] = {nullptr};
-    bool isEnd = false;
-    vector<string> words;
-
-    TrieNode() {}
-};
-
-class Trie {
-public:
-    TrieNode* root;
-
-    Trie() {
-        root = new TrieNode();
+// } Driver Code Ends
+// User function Template for C++
+class trieNode{
+    public: 
+    
+    trieNode* children[26];
+    bool isEnd;
+    
+    trieNode(){
+        for(int i=0;i<26;i++){
+            this->children[i]=NULL;
+        }
+        this->isEnd=false;
     }
-
-    void insert(const string& s) {
-        TrieNode* curr = root;
-        for (char ch : s) {
-            if (curr->arr[ch - 'a'] == nullptr) {
-                curr->arr[ch - 'a'] = new TrieNode();
+};
+class Solution{
+public:
+    trieNode* root;
+    
+    Solution(){
+        root=new trieNode();
+    }
+    
+    void insert(string s){
+        int n=s.size();
+        trieNode* curr=root;
+        for(int i=0;i<n;i++){
+            char ch=s[i];
+            if(curr->children[ch-'a']==NULL){
+                curr->children[ch-'a']=new trieNode();
             }
-            curr = curr->arr[ch - 'a'];
-            curr->words.push_back(s);
+            
+            curr=curr->children[ch-'a'];
         }
-        curr->isEnd = true;
+        
+        curr->isEnd=true;
     }
 
-    vector<string> getWords(const string& prefix) {
-        TrieNode* curr = root;
-        for (char ch : prefix) {
-            if (curr->arr[ch - 'a'] == nullptr) return {};
-            curr = curr->arr[ch - 'a'];
-        }
-        return curr->words;
-    }
-};
-
-class Solution {
-public:
-    static vector<vector<string>> displayContacts(int n, string contact[], string s) {
-        vector<vector<string>> result;
-        Trie trie;
-        for (int i = 0; i < n; i++) {
-            trie.insert(contact[i]);
-        }
-
-        for (int i = 1; i <= s.length(); i++) {
-            vector<string> list = trie.getWords(s.substr(0, i));
-            sort(list.begin(), list.end());
-            unordered_set<string> uniqueWords(list.begin(), list.end());
-            list.assign(uniqueWords.begin(), uniqueWords.end());
-            if (list.empty()) {
-                list.push_back("0");
+    trieNode* prefix(string s){
+        int n=s.size();
+        trieNode* curr=root;
+        for(int i=0;i<n;i++){
+            char ch=s[i];
+            if(curr->children[ch-'a']==NULL){
+                return NULL;
             }
-            result.push_back(list);
+            curr=curr->children[ch-'a'];
         }
-        return result;
+        
+        return curr;
+    }
+    
+    void prefixSearch(vector<string> &s,string &str,trieNode* curr){
+        if(curr->isEnd){
+                s.push_back(str);
+        }
+        
+        for(int i=0;i<26;i++){
+            if(curr->children[i]){
+                str.push_back(i+'a');
+                trieNode* temp=curr;
+                prefixSearch(s,str,curr->children[i]);
+                str.pop_back();
+                curr=temp;
+            }
+        }
+        return;
+    }
+
+    vector<vector<string>> displayContacts(int n, string contact[], string s)
+    {
+        vector<vector<string>> res;
+        for(int i=0;i<n;i++){
+            insert(contact[i]);
+        }
+        string str;
+        for(int i=0;i<s.size();i++){
+            str.push_back(s[i]);
+            trieNode* curr=prefix(str);
+            vector<string> v;
+            if(!curr){
+                v.push_back("0");
+                res.push_back(v);
+            }
+            else{
+                prefixSearch(v,str,curr);
+                res.push_back(v);
+            }
+        }
+        
+        return res;
     }
 };
 
-int main() {
+//{ Driver Code Starts.
+
+int main(){
     int t;
-    cin >> t;
-    cin.ignore();
-    while (t-- > 0) {
+    cin>>t;
+    while(t--){
         int n;
-        cin >> n;
-        cin.ignore();
-        string contact[n];
-        for (int i = 0; i < n; i++) {
-            getline(cin, contact[i]);
-        }
-        string s;
-        getline(cin, s);
-
+        cin>>n;
+        string contact[n], s;
+        for(int i = 0;i < n;i++)
+            cin>>contact[i];
+        cin>>s;
+        
         Solution ob;
         vector<vector<string>> ans = ob.displayContacts(n, contact, s);
-        for (const auto& list : ans) {
-            for (const auto& word : list) {
-                cout << word << " ";
-            }
-            cout << endl;
+        for(int i = 0;i < ans.size();i++){
+            for(auto u: ans[i])
+                cout<<u<<" ";
+            cout<<"\n";
         }
-        cout << "~" << endl;
-    }
+    
+cout << "~" << "\n";
+}
     return 0;
 }
-
+// } Driver Code Ends
