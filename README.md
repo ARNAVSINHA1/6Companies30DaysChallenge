@@ -39,7 +39,7 @@
    ##
    # Challenge Company 3: [Walmart](https://www.walmart.com/)
    ## Date Started:- 11/01/2025
-   ## Date Completed:- 15/01/2025
+   ## Date Completed:- 15/01/2025 (Expected)
    - 1. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
    - 2. [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/)
    - 3. [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10)
@@ -57,8 +57,8 @@
    - 15. [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)
    ##
    # Challenge Company 4: [Google](https://www.google.co.in/)
-   ## Date Started:- 16/01/2025
-   ## Date Completed:- 20/01/2025
+   ## Date Started:- 16/01/2025 (Expected)
+   ## Date Completed:- 20/01/2025 (Expected)
    - 1. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/)
    - 2. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
    - 3. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
@@ -76,8 +76,8 @@
    - 15. [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/)
    ##
    # Challenge Company 5: [Atlassian](https://www.atlassian.com/)
-   ## Date Started:- 21/01/2025
-   ## Date Completed:- 25/01/2025
+   ## Date Started:- 21/01/2025 (Expected)
+   ## Date Completed:- 25/01/2025 (Expected)
    - 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
    - 2. [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
    - 3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
@@ -95,8 +95,8 @@
    - 15. [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/submissions/)
    ##
    # Challenge Company 6: [Goldman Sachs](https://www.goldmansachs.com/)
-   ## Date Started:- 26/01/2025
-   ## Date Completed:- 30/01/2025
+   ## Date Started:- 26/01/2025 (Expected)
+   ## Date Completed:- 30/01/2025 (Expected)
    - 1. [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)
    - 2. [Employee Priority Systems](https://leetcode.com/problems/high-access-employees/description/)
    - 3. [Kth Smallest Element Query](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
