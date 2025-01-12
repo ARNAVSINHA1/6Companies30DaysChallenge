@@ -1,2 +1,5 @@
-Time Complexity:O(n)→O(nlogn)
-Space Complexity:O(n)
+# Time Complexity:
+O(n)→O(nlogn)
+# Space Complexity:
+O(n)
+##
