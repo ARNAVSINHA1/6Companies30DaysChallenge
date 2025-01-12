@@ -1,9 +1,6 @@
-# Challenge Company 1: Microsoft 
-
-## Date Started:- 01/01/2025
-
-## Date Completed:- 05/01/2025
-    
+   # Challenge Company 1: [Microsoft](https://www.microsoft.com/en-in/) 
+   ## Date Started:- 01/01/2025
+   ## Date Completed:- 05/01/2025
    - 1. [Overlap Circle and Rectangle](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
    - 2. [Who is the Winner?](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
    - 3. [Envelopes and Dolls](https://leetcode.com/problems/russian-doll-envelopes/description/)
@@ -19,3 +16,4 @@
    - 13. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort-ii/description/)
    - 14. [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
    - 15. [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/)
+##
