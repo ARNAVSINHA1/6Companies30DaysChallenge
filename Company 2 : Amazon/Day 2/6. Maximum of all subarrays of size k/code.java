@@ -44,35 +44,22 @@ public class Main {
 
 class Solution {
     // Function to find maximum of each subarray of size k.
-    public ArrayList<Integer> max_of_subarrays(int arr[], int k) {
+    static ArrayList<Integer> maxOfSubarrays(int arr[], int k) {
         // Your code here
-    PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> b.value - a.value);
-        ArrayList<Integer> result = new ArrayList<>();
-        int n = arr.length;
+         int n = arr.length;
+        ArrayList<Integer> res = new ArrayList<>();
 
-        for (int i = 0; i < k; i++) {
-            pq.offer(new Pair(arr[i], i));
-        }
-        result.add(pq.peek().value);
-
-        for (int i = k; i < n; i++) {
-            pq.offer(new Pair(arr[i], i));
-            while (pq.peek().index <= i - k) {
-                pq.poll();
+        for (int i = 0; i <= n - k; i++) {
+            // Find maximum of subarray beginning with arr[i]
+            int max = arr[i];
+            for (int j = 1; j < k; j++) {
+                if (arr[i + j] > max) {
+                    max = arr[i + j];
+                }
             }
-            result.add(pq.peek().value);
+            res.add(max);
         }
 
-        return result;
-    }
-
-    private static class Pair {
-        int value;
-        int index;
-
-        Pair(int value, int index) {
-            this.value = value;
-            this.index = index;
-        }
+        return res;
     }
 }
