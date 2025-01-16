@@ -1,5 +1,5 @@
 # Time Complexity:
-O(nlog(n)
+O(nlog(n))
 # Space Complexity:
 O(1)
 ##
