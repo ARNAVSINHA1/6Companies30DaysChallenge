@@ -39,7 +39,7 @@
    ##
    # Challenge Company 3: [Walmart](https://www.walmart.com/)
    ## Date Started:- 11/01/2025
-   ## Date Completed:- 15/01/2025 (Expected)
+   ## Date Completed:- 15/01/2025
    - 1. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
    - 2. [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/)
    - 3. [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10)
@@ -57,7 +57,7 @@
    - 15. [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)
    ##
    # Challenge Company 4: [Google](https://www.google.co.in/)
-   ## Date Started:- 16/01/2025 (Expected)
+   ## Date Started:- 16/01/2025
    ## Date Completed:- 20/01/2025 (Expected)
    - 1. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/)
    - 2. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
