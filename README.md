@@ -1,5 +1,5 @@
 # 6Companies30DaysChallenge
-   # Challenge Company 1: [Microsoft](https://www.microsoft.com/en-in/) 
+   # Challenge Company 1: [Microsoft](https://www.microsoft.com/en-in/)  ✅ ✅ ✅ ✅ ✅
    ## Date Started:- 01/01/2025
    ## Date Completed:- 05/01/2025
    - 1. [Overlap Circle and Rectangle](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/) ✅
@@ -18,7 +18,7 @@
    - 14. [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/) ✅
    - 15. [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) ✅
    ##
-   # Challenge Company 2: [Amazon](https://www.amazon.com/) 
+   # Challenge Company 2: [Amazon](https://www.amazon.com/)  ✅ ✅ ✅ ✅ ✅
    ## Date Started:- 06/01/2025
    ## Date Completed:- 10/01/2025
    - 1. [Calculating Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) ✅
@@ -37,7 +37,7 @@
    - 14. [Tree Burning](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/) ✅
    - 15. [Delete N nodes after M nodes of a linked list](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1) ✅
    ##
-   # Challenge Company 3: [Walmart](https://www.walmart.com/)
+   # Challenge Company 3: [Walmart](https://www.walmart.com/) ✅ ✅ ✅ ✅ ✅
    ## Date Started:- 11/01/2025
    ## Date Completed:- 15/01/2025
    - 1. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) ✅
@@ -56,7 +56,7 @@
    - 14. [Word Break](https://leetcode.com/problems/word-break/description/) ✅
    - 15. [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/) ✅
    ##
-   # Challenge Company 4: [Google](https://www.google.co.in/)
+   # Challenge Company 4: [Google](https://www.google.co.in/) ✅ ✅ ✅
    ## Date Started:- 16/01/2025
    ## Date Completed:- 20/01/2025 (Expected)
    - 1. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) ✅
