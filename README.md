@@ -2,69 +2,69 @@
    # Challenge Company 1: [Microsoft](https://www.microsoft.com/en-in/) 
    ## Date Started:- 01/01/2025
    ## Date Completed:- 05/01/2025
-   - 1. [Overlap Circle and Rectangle](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
-   - 2. [Who is the Winner?](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
-   - 3. [Envelopes and Dolls](https://leetcode.com/problems/russian-doll-envelopes/description/)
-   - 4. [Image Smoother](https://leetcode.com/problems/image-smoother/description/)
-   - 5. [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)
-   - 6. [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/)
-   - 7. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
-   - 8. [Counting Nice Sub Arrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
-   - 9. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)
-   - 10. [City with Smallest Number of Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
-   - 11. [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/description/)
-   - 12. [Max Product of Length of Two Palindromic Sequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/)
-   - 13. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort-ii/description/)
-   - 14. [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
-   - 15. [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/)
+   - 1. [Overlap Circle and Rectangle](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/) ✅
+   - 2. [Who is the Winner?](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/) ✅
+   - 3. [Envelopes and Dolls](https://leetcode.com/problems/russian-doll-envelopes/description/) ✅
+   - 4. [Image Smoother](https://leetcode.com/problems/image-smoother/description/) ✅
+   - 5. [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) ✅
+   - 6. [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) ✅
+   - 7. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) ✅
+   - 8. [Counting Nice Sub Arrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) ✅
+   - 9. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) ✅
+   - 10. [City with Smallest Number of Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) ✅
+   - 11. [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/description/) ✅
+   - 12. [Max Product of Length of Two Palindromic Sequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/) ✅
+   - 13. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort-ii/description/) ✅
+   - 14. [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/) ✅
+   - 15. [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) ✅
    ##
    # Challenge Company 2: [Amazon](https://www.amazon.com/) 
    ## Date Started:- 06/01/2025
    ## Date Completed:- 10/01/2025
-   - 1. [Calculating Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
-   - 2. [Longest Mountain](https://leetcode.com/problems/longest-mountain-in-array/description/)
-   - 3. [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
-   - 4. [Brackets in Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1)
-   - 5. [Phone directory](https://www.geeksforgeeks.org/problems/phone-directory4628/1)
-   - 6. [Maximum of all subarrays of size k](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
-   - 7. [First non-repeating character in a stream](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
-   - 8. [Count ways to N'th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/)
-   - 9. [Which among them forms a perfect Sudoku Pattern](https://leetcode.com/problems/valid-sudoku/description/)
-   - 10. [Nuts and Bolts Problem](https://www.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)
-   - 11. [Tree Serialization and Deserialization](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
-   - 12. [Column name from a given column number](https://leetcode.com/problems/excel-sheet-column-title/description/)
-   - 13. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/description/)
-   - 14. [Tree Burning](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
-   - 15. [Delete N nodes after M nodes of a linked list](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
+   - 1. [Calculating Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) ✅
+   - 2. [Longest Mountain](https://leetcode.com/problems/longest-mountain-in-array/description/) ✅
+   - 3. [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) ✅
+   - 4. [Brackets in Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1) ✅
+   - 5. [Phone directory](https://www.geeksforgeeks.org/problems/phone-directory4628/1) ✅
+   - 6. [Maximum of all subarrays of size k](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) ✅
+   - 7. [First non-repeating character in a stream](https://leetcode.com/problems/first-unique-character-in-a-string/description/) ✅
+   - 8. [Count ways to N'th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/) ✅
+   - 9. [Which among them forms a perfect Sudoku Pattern](https://leetcode.com/problems/valid-sudoku/description/) ✅
+   - 10. [Nuts and Bolts Problem](https://www.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1) ✅
+   - 11. [Tree Serialization and Deserialization](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) ✅
+   - 12. [Column name from a given column number](https://leetcode.com/problems/excel-sheet-column-title/description/) ✅
+   - 13. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/description/) ✅
+   - 14. [Tree Burning](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/) ✅
+   - 15. [Delete N nodes after M nodes of a linked list](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1) ✅
    ##
    # Challenge Company 3: [Walmart](https://www.walmart.com/)
    ## Date Started:- 11/01/2025
    ## Date Completed:- 15/01/2025
-   - 1. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
-   - 2. [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/)
-   - 3. [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10)
-   - 4. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
-   - 5. [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/)
-   - 6. [Rotate Function](https://leetcode.com/problems/rotate-function/description/)
-   - 7. [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/)
-   - 8. [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/)
-   - 9. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
-   - 10. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
-   - 11. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
-   - 12. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
-   - 13. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
-   - 14. [Word Break](https://leetcode.com/problems/word-break/description/)
-   - 15. [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)
+   - 1. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) ✅
+   - 2. [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/) ✅
+   - 3. [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10) ✅
+   - 4. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) ✅
+   - 5. [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/) ✅
+   - 6. [Rotate Function](https://leetcode.com/problems/rotate-function/description/) ✅
+   - 7. [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/) ✅
+   - 8. [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) ✅
+   - 9. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) ✅
+   - 10. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/) ✅
+   - 11. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) ✅
+   - 12. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) ✅
+   - 13. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) ✅
+   - 14. [Word Break](https://leetcode.com/problems/word-break/description/) ✅
+   - 15. [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/) ✅
    ##
    # Challenge Company 4: [Google](https://www.google.co.in/)
    ## Date Started:- 16/01/2025
    ## Date Completed:- 20/01/2025 (Expected)
-   - 1. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/)
-   - 2. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
-   - 3. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
-   - 4. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/submissions/)
-   - 5. [Stone Game VI](https://leetcode.com/problems/stone-game-vi/description/)
-   - 6. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+   - 1. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) ✅
+   - 2. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) ✅
+   - 3. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) ✅
+   - 4. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/submissions/) ✅
+   - 5. [Stone Game VI](https://leetcode.com/problems/stone-game-vi/description/) ✅
+   - 6. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) ✅
    - 7. [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/description/)
    - 8. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
    - 9. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
@@ -85,7 +85,7 @@
    - 5. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
    - 6. [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/)
    - 7. [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/)
-   - 8. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
+   - 8. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) ✅
    - 9. [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/)
    - 10. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
    - 11. [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/description/)
