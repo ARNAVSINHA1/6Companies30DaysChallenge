@@ -65,9 +65,9 @@
    - 4. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/submissions/) ✅
    - 5. [Stone Game VI](https://leetcode.com/problems/stone-game-vi/description/) ✅
    - 6. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) ✅
-   - 7. [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/description/)
-   - 8. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
-   - 9. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
+   - 7. [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/description/) ✅
+   - 8. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) ✅
+   - 9. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) ✅
    - 10. [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/)
    - 11. [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)
    - 12. [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/description/)
@@ -87,7 +87,7 @@
    - 7. [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/)
    - 8. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) ✅
    - 9. [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/)
-   - 10. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
+   - 10. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) ✅
    - 11. [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/description/)
    - 12. [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/)
    - 13. [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)
