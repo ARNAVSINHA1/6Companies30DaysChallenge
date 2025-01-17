@@ -1,0 +1,5 @@
+# TIME COMPLEXITY
+O(q * n log n)
+# SPACE COMPLEXITY
+O(n)
+##
