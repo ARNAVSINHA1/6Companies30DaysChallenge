@@ -1,4 +1,4 @@
-# Day 1 - 16/01/2025
+# Day 1 - 16/01/2025  ✅ ✅ ✅
 ## Language Used : **C++**, **JAVA**
 ## 3 Programs of the Day :
    - 1. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) ✅
