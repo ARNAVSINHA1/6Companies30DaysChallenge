@@ -1,4 +1,4 @@
-   # Challenge Company 4: [Google](https://www.google.co.in/)
+   # Challenge Company 4: [Google](https://www.google.co.in/)  ✅ ✅ ✅ ✅
    ## Date Started:- 16/01/2025
    ## Date Completed:- 20/01/2025
    - 1. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) ✅
