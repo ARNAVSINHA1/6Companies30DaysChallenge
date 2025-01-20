@@ -1,4 +1,4 @@
-   # Challenge Company 4: [Google](https://www.google.co.in/)  ✅ ✅ ✅ ✅
+   # Challenge Company 4: [Google](https://www.google.co.in/)  ✅ ✅ ✅ ✅ ✅
    ## Date Started:- 16/01/2025
    ## Date Completed:- 20/01/2025
    - 1. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) ✅
@@ -13,7 +13,7 @@
    - 10. [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/) ✅
    - 11. [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) ✅
    - 12. [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/description/) ✅
-   - 13. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/)
-   - 14. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
-   - 15. [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/)
+   - 13. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) ✅
+   - 14. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) ✅
+   - 15. [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) ✅
 ##
