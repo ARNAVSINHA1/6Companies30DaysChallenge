@@ -75,11 +75,11 @@
    - 14. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) ✅
    - 15. [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) ✅
    ##
-   # Challenge Company 5: [Atlassian](https://www.atlassian.com/)
+   # Challenge Company 5: [Atlassian](https://www.atlassian.com/) ✅
    ## Date Started:- 21/01/2025
    ## Date Completed:- 25/01/2025 (Expected)
-   - 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
-   - 2. [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
+   - 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) ✅
+   - 2. [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/) ✅
    - 3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
    - 4. [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/)
    - 5. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
