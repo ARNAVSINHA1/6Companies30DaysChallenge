@@ -75,15 +75,15 @@
    - 14. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) ✅
    - 15. [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) ✅
    ##
-   # Challenge Company 5: [Atlassian](https://www.atlassian.com/) ✅
+   # Challenge Company 5: [Atlassian](https://www.atlassian.com/) ✅ ✅
    ## Date Started:- 21/01/2025
    ## Date Completed:- 25/01/2025 (Expected)
    - 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) ✅
    - 2. [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/) ✅
-   - 3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
-   - 4. [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/)
-   - 5. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
-   - 6. [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/)
+   - 3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) ✅
+   - 4. [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) ✅
+   - 5. [LRU Cache](https://leetcode.com/problems/lru-cache/description/) ✅
+   - 6. [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/) ✅
    - 7. [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/)
    - 8. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) ✅
    - 9. [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/)
