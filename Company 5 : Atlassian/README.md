@@ -1,4 +1,4 @@
-   # Challenge Company 5: [Atlassian](https://www.atlassian.com/) ✅ ✅ ✅ ✅
+   # Challenge Company 5: [Atlassian](https://www.atlassian.com/) ✅ ✅ ✅ ✅ ✅
    ## Date Started:- 21/01/2025
    ## Date Completed:- 25/01/2025
    - 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) ✅
@@ -12,8 +12,8 @@
    - 9. [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/) ✅
    - 10. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) ✅
    - 11. [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/description/) ✅
-   - 12. [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/)
-   - 13. [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)
-   - 14. [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
+   - 12. [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/) ✅
+   - 13. [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/) ✅
+   - 14. [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/) ✅
    - 15. [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/submissions/) ✅
 ##

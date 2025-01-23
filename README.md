@@ -75,9 +75,9 @@
    - 14. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) ✅
    - 15. [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) ✅
    ##
-   # Challenge Company 5: [Atlassian](https://www.atlassian.com/) ✅ ✅ ✅ ✅
+   # Challenge Company 5: [Atlassian](https://www.atlassian.com/) ✅ ✅ ✅ ✅ ✅
    ## Date Started:- 21/01/2025
-   ## Date Completed:- 25/01/2025 (Expected)
+   ## Date Completed:- 23/01/2025
    - 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) ✅
    - 2. [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/) ✅
    - 3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) ✅
@@ -89,13 +89,13 @@
    - 9. [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/) ✅
    - 10. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) ✅
    - 11. [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/description/) ✅
-   - 12. [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/)
-   - 13. [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)
-   - 14. [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
+   - 12. [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/) ✅
+   - 13. [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/) ✅
+   - 14. [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/) ✅
    - 15. [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/submissions/) ✅
    ##
    # Challenge Company 6: [Goldman Sachs](https://www.goldmansachs.com/)
-   ## Date Started:- 26/01/2025 (Expected)
+   ## Date Started:- 24/01/2025
    ## Date Completed:- 30/01/2025 (Expected)
    - 1. [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)
    - 2. [Employee Priority Systems](https://leetcode.com/problems/high-access-employees/description/)
