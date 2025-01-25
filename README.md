@@ -77,7 +77,7 @@
    ##
    # Challenge Company 5: [Atlassian](https://www.atlassian.com/) ✅ ✅ ✅ ✅ ✅ 
    ## Date Started:- 21/01/2025
-   ## Date Completed:- 23/01/2025
+   ## Date Completed:- 25/01/2025
    - 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) ✅
    - 2. [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/) ✅
    - 3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) ✅
@@ -95,7 +95,7 @@
    - 15. [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/submissions/) ✅
    ##
    # Challenge Company 6: [Goldman Sachs](https://www.goldmansachs.com/)
-   ## Date Started:- 24/01/2025
+   ## Date Started:- 26/01/2025
    ## Date Completed:- 30/01/2025 (Expected)
    - 1. [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)
    - 2. [Employee Priority Systems](https://leetcode.com/problems/high-access-employees/description/)
