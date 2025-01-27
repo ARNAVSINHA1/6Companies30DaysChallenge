@@ -1,5 +1,6 @@
+
 # 6Companies30DaysChallenge
-   # Challenge Company 1: [Microsoft](https://www.microsoft.com/en-in/)  ✅ ✅ ✅ ✅ ✅
+   ## Challenge Company 1: [Microsoft](https://www.microsoft.com/en-in/)  ✅ ✅ ✅ ✅ ✅
    ## Date Started:- 01/01/2025
    ## Date Completed:- 05/01/2025
    - 1. [Overlap Circle and Rectangle](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/) ✅
@@ -18,7 +19,7 @@
    - 14. [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/) ✅
    - 15. [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) ✅
    ##
-   # Challenge Company 2: [Amazon](https://www.amazon.com/)  ✅ ✅ ✅ ✅ ✅
+   ## Challenge Company 2: [Amazon](https://www.amazon.com/)  ✅ ✅ ✅ ✅ ✅
    ## Date Started:- 06/01/2025
    ## Date Completed:- 10/01/2025
    - 1. [Calculating Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) ✅
@@ -94,15 +95,15 @@
    - 14. [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/) ✅
    - 15. [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/submissions/) ✅
    ##
-   # Challenge Company 6: [Goldman Sachs](https://www.goldmansachs.com/)
+   # Challenge Company 6: [Goldman Sachs](https://www.goldmansachs.com/) ✅ ✅
    ## Date Started:- 26/01/2025
    ## Date Completed:- 30/01/2025 (Expected)
-   - 1. [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)
-   - 2. [Employee Priority Systems](https://leetcode.com/problems/high-access-employees/description/)
-   - 3. [Kth Smallest Element Query](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
-   - 4. [Combination Sum](https://leetcode.com/problems/combination-sum-iii/description/)
-   - 5. [Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/)
-   - 6. [Combinations in a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+   - 1. [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/) ✅
+   - 2. [Employee Priority Systems](https://leetcode.com/problems/high-access-employees/description/) ✅
+   - 3. [Kth Smallest Element Query](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) ✅
+   - 4. [Combination Sum](https://leetcode.com/problems/combination-sum-iii/description/) ✅
+   - 5. [Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) ✅
+   - 6. [Combinations in a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) ✅
    - 7. [Find Missing and Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
    - 8. [Finding consecutive integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/description/)
    - 9. [Following a number pattern](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)

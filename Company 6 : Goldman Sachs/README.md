@@ -1,12 +1,12 @@
-   # Challenge Company 6: [Goldman Sachs](https://www.goldmansachs.com/)
+   # Challenge Company 6: [Goldman Sachs](https://www.goldmansachs.com/) ✅ ✅
    ## Date Started:- 26/01/2025
    ## Date Completed:- 30/01/2025
-   - 1. [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)
-   - 2. [Employee Priority Systems](https://leetcode.com/problems/high-access-employees/description/)
-   - 3. [Kth Smallest Element Query](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
-   - 4. [Combination Sum](https://leetcode.com/problems/combination-sum-iii/description/)
-   - 5. [Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/)
-   - 6. [Combinations in a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+   - 1. [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/) ✅
+   - 2. [Employee Priority Systems](https://leetcode.com/problems/high-access-employees/description/) ✅
+   - 3. [Kth Smallest Element Query](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) ✅
+   - 4. [Combination Sum](https://leetcode.com/problems/combination-sum-iii/description/) ✅
+   - 5. [Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) ✅
+   - 6. [Combinations in a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) ✅
    - 7. [Find Missing and Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
    - 8. [Finding consecutive integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/description/)
    - 9. [Following a number pattern](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
