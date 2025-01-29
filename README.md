@@ -159,4 +159,5 @@ Each company has a set of 15 problems to be solved in 5 days. Below is a summary
 This challenge has been an incredible journey in strengthening problem-solving skills and understanding company-specific coding patterns. Thank you for visiting my repository! Feel free to check out my [GitHub Profile](https://github.com/ARNAVSINHA1) for more projects and challenges.
 ---
 
-🚀 **Happy Coding!**
+<p align="center">🚀 <b>Happy Coding!</b> 🚀</p>
+
