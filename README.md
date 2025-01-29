@@ -20,7 +20,6 @@ Each company has a set of 15 problems to be solved in 5 days. Below is a summary
 ### **Company 1: [Microsoft](https://www.microsoft.com/en-in/)** ✅ ✅ ✅ ✅ ✅
 **Date Started:** 01/01/2025  
 **Date Completed:** 05/01/2025  
-
 ---
 
 #### Problems Solved:
