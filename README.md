@@ -5,12 +5,12 @@ The **6 Companies 30 Days Challenge** is a structured coding challenge designed 
 ---
 
 ## Table of Contents
-- [Microsoft](#company-1-microsoft-----)
-- [Amazon](#company-2-amazon-----)
-- [Walmart](#company-3-walmart-----)
-- [Google](#company-4-google-----)
-- [Atlassian](#company-5-atlassian-----)
-- [Goldman Sachs](#company-6-goldman-sachs-----)
+- [Microsoft](#company-1-microsoft-----) ✅
+- [Amazon](#company-2-amazon-----) ✅
+- [Walmart](#company-3-walmart-----) ✅
+- [Google](#company-4-google-----) ✅
+- [Atlassian](#company-5-atlassian-----) ✅
+- [Goldman Sachs](#company-6-goldman-sachs-----) ✅
 ---
 
 ## Challenge Breakdown
